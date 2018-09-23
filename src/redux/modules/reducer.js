@@ -4,6 +4,7 @@ const INCREMENT = "INCREMENT";
 const DECREMENT = "DECREMENT";
 const SET_COLOR = "SET_COLOR";
 
+
 // action creators
 
 const increment = () => ({
